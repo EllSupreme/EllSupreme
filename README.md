@@ -1,6 +1,7 @@
 # ElSupreme_
 
-Développeur Java.
+Java developer.
+I'm Belgian, I'm a student and I'm passionate about development and IT.
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
