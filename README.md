@@ -7,7 +7,7 @@ I'm Belgian, my name is Nathan and my nickname is Supreme_, I'm 14 years old.
 
 ---
 
-My knowledge
+My knowledge :
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
