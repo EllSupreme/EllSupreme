@@ -24,3 +24,8 @@ I'm Belgian, I'm a student and I'm passionate about development and IT.
 
 
 ![EllSupreme's github stats](https://github-readme-stats.vercel.app/api?username=EllSupreme&theme=graywhite&show_icons=true)
+
+<hr>
+<p align="center">
+Developed with ❤️ Supreme_
+</p>
