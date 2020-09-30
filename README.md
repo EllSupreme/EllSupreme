@@ -2,19 +2,12 @@
 
 ### Hi there 👋, my name is Nathan
 #### Java developper
-![Java developper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-My name is Nathan and I am 14 years old.
-
-- 🔭 I’m currently working on open source work. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.elsupreme.fr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://elsupreme.fr/)  
-
 
 
 Java developer.
-I'm Belgian, I'm a student and I'm passionate about development and IT.
+I'm Belgian, my name is Nathan and my nickname is Supreme_, I'm 14 years old.
+
+- 🔭 I’m currently working on open source work. 
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
@@ -36,10 +29,9 @@ I'm Belgian, I'm a student and I'm passionate about development and IT.
 
 <br>
 
-
 ![EllSupreme's github stats](https://github-readme-stats.vercel.app/api?username=EllSupreme&theme=graywhite&show_icons=true)
 
 <hr>
 <p align="center">
-❤️ Supreme_
+Made with ❤️ Supreme_
 </p>
