@@ -8,6 +8,7 @@ I'm Belgian, I'm a student and I'm passionate about development and IT.
   <img alt="Playpen" src="https://img.shields.io/badge/-Playpen-2AA5DC?style=flat-square&logo=Webpack&logoColor=white" />
   <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="InteliJ IDEA" src="https://img.shields.io/badge/-InteliJ-000000?style=flat-square&logo=intellij%20idea&logoColor=white" />
   <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=Proxmox&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
