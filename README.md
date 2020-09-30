@@ -16,5 +16,5 @@ I'm Belgian, I'm a student and I'm passionate about development and IT.
 <br>
 
 
-![EllSupreme's github stats](https://github-readme-stats.vercel.app/api?username=EllSupreme&show_icons=true&hide_border=true&count_private=true)
+![EllSupreme's github stats](https://github-readme-stats.vercel.app/api?username=EllSupreme&theme=graywhite&show_icons=true)
 
