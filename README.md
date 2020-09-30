@@ -27,5 +27,5 @@ I'm Belgian, I'm a student and I'm passionate about development and IT.
 
 <hr>
 <p align="center">
-Developed with ❤️ Supreme_
+❤️ Supreme_
 </p>
