@@ -29,6 +29,8 @@ My knowledge :
 
 <br>
 
+---
+
 ![EllSupreme's github stats](https://github-readme-stats.vercel.app/api?username=EllSupreme&theme=graywhite&show_icons=true)
 
 <hr>
