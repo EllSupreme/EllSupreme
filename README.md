@@ -33,6 +33,8 @@ My knowledge :
 
 ![EllSupreme's github stats](https://github-readme-stats.vercel.app/api?username=EllSupreme&theme=graywhite&show_icons=true)
 
+[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=Supreme_#5711&color=7289DA&logo=Discord&style=for-the-badge)]()
+
 <hr>
 <p align="center">
 Made with ❤️ Supreme_
