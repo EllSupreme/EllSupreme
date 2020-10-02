@@ -42,7 +42,7 @@ I'm Belgian, my name is Nathan and my nickname is Supreme_, I'm 14 years old.
 
 # About me
 
-[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=Supreme%235711&color=7289DA&logo=Discord&style=for-the-badge)]()
+[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=Supreme_%235711&color=7289DA&logo=Discord&style=for-the-badge)]()
 
 <hr>
 <p align="center">
