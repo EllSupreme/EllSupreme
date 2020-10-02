@@ -31,7 +31,13 @@ My knowledge :
 
 ---
 
+# Stats
+
 ![EllSupreme's github stats](https://github-readme-stats.vercel.app/api?username=EllSupreme&theme=graywhite&show_icons=true)
+
+---
+
+# About me
 
 [![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=Supreme%235711&color=7289DA&logo=Discord&style=for-the-badge)]()
 
