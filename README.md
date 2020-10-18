@@ -1,10 +1,6 @@
 # Nathan Guillaume
 
----
-
-# Java developer.
-
-I'm Belgian, my name is Nathan and my nickname is Supreme_, I'm 14 years old.
+I'm Belgian, my name is Nathan and my nickname is Supreme_, I'm 14 years old and I am a student.
 
 - 🔭 I’m currently working on open source work. 
 
