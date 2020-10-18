@@ -29,8 +29,3 @@ I'm Belgian, my name is Nathan and my nickname is Supreme_, I'm 14 years old and
 # Stats
 
 ![EllSupreme's github stats](https://github-readme-stats.vercel.app/api?username=EllSupreme&theme=graywhite&show_icons=true)
-
-<hr>
-<p align="center">
-Made with ❤️ Supreme_
-</p>
