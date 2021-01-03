@@ -29,3 +29,10 @@ I'm Belgian, my name is Nathan. I'm 14 years old and I am a student.
 # Stats
 
 ![Nathan-Guillaume's github stats](https://github-readme-stats.vercel.app/api?username=Nathan-Guillaume&theme=graywhite&show_icons=true)
+
+---
+
+# Contact
+
+E-Mail : contact@nathan-guillaume.be
+Discord : Nathan™#5711
