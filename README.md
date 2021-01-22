@@ -8,20 +8,18 @@
 
 ## :wrench: Technologies
 
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Playpen" src="https://img.shields.io/badge/-Playpen-2AA5DC?style=flat-square&logo=Webpack&logoColor=white" />
-  <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github&logoColor=white" />
-  <img alt="GitLab actions" src="https://img.shields.io/badge/-GitLab%20Actions-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="InteliJ IDEA" src="https://img.shields.io/badge/-InteliJ-000000?style=flat-square&logo=intellij%20idea&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
-  <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
+<p align="left">
+  <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jee-3.svg" alt="java" width="40" height="40"/></a> 
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="js" width="40" height="40"/></a> 
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/></a> 
+  <a href="https://redis.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="40" height="40"/></a> 
+  <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="rabbitmq" width="40" height="40"/></a> 
+  <a href="https://mariadb.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" alt="mariadb" width="40" height="40"/></a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="40" height="40"/></a> 
+  <a href="https://www.zabbix.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/zabbix-1.svg" alt="zabbix" width="40" height="40"/></a> 
+  <a href="https://grafana.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="grafana" width="40" height="40"/></a> 
+  <a href="https://www.proxmox.com/" target="_blank"> <img src="https://i0.wp.com/homputersecurity.com/wp-content/uploads/2020/06/proxmox-2.png?ssl=1" alt="proxmox" width="40" height="40"/></a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/></a> 
 </p>
 
 ## 📢 Stats
