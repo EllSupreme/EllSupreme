@@ -41,3 +41,7 @@
   <a href="https://www.facebook.com/nathan.guillaume.52" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nathan.guillaume.52" height="40" width="40" /></a> &nbsp;&nbsp;
   <a href="https://www.youtube.com/c/Nathan-Guillaume" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="Nathan-Guillaume" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/NathanGuillaume" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
+</p>
