@@ -1,10 +1,11 @@
 # Nathan Guillaume
 
-I'm Belgian, my name is Nathan. I'm 14 years old and I am a student.
+## 🙍‍ About Me
 
----
+- 🔎 I'm Belgian, my name is Nathan. I'm 14 years old and I am a student.
+- 🔨 I work for personal projects.
 
-# I use
+## :wrench: Technologies
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
@@ -22,11 +23,13 @@ I'm Belgian, my name is Nathan. I'm 14 years old and I am a student.
   <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
 </p>
 
-
-<br>
-
----
-
-# Stats
+## 📢 Stats
 
 ![Nathan-Guillaume's github stats](https://github-readme-stats.vercel.app/api?username=Nathan-Guillaume&theme=graywhite&show_icons=true)
+
+## Contact
+<p align="left">
+  <a href="https://www.instagram.com/nathanguillaume1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://twitter.com/nathanguillau1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.facebook.com/nathan.guillaume.52" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+</p>
