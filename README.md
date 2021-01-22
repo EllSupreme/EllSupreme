@@ -32,7 +32,8 @@
 
 ## Contact
 <p align="left">
-  <a href="https://www.instagram.com/nathanguillaume1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://twitter.com/nathanguillau1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://www.facebook.com/nathan.guillaume.52" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/nathanguillaume1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nathanguillaume1" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://twitter.com/nathanguillau1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nathanguillau1" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.facebook.com/nathan.guillaume.52" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nathan.guillaume.52" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="contact@nathan-guillaume.be" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Aiga_mail.svg" alt="contact@nathan-guillaume.be" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
