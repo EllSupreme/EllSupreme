@@ -25,6 +25,9 @@
   <a href="https://ubuntu.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="ubuntu" width="40" height="40"/></a> 
   <a href="https://www.debian.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="debian" width="40" height="40"/></a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/></a> 
+  <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intelijidea" width="40" height="40"/></a> 
+  <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/phpstorm-1.svg" alt="phpstorm" width="40" height="40"/></a> 
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visualstudiocode" width="40" height="40"/></a> 
 </p>
 
 ## 📢 Stats
