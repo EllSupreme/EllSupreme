@@ -1,9 +1,10 @@
-# Nathan Guillaume
+<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Nathan Guillaume</h1>
+
 
 ## 🤷‍♂️ About Me
 
 - 🔎 I'm Belgian, my name is Nathan. I'm 14 years old and I am a student.
-- 🔨 I work for personal projects.
+- 🔭 I work for personal projects.
 
 ## :wrench: Technologies
 
