@@ -16,9 +16,12 @@
   <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="rabbitmq" width="40" height="40"/></a> 
   <a href="https://mariadb.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" alt="mariadb" width="40" height="40"/></a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="40" height="40"/></a> 
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="linux" width="40" height="40"/></a> 
   <a href="https://www.zabbix.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/zabbix-1.svg" alt="zabbix" width="40" height="40"/></a> 
   <a href="https://grafana.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="grafana" width="40" height="40"/></a> 
   <a href="https://www.proxmox.com/" target="_blank"> <img src="https://i0.wp.com/homputersecurity.com/wp-content/uploads/2020/06/proxmox-2.png?ssl=1" alt="proxmox" width="40" height="40"/></a> 
+  <a href="https://ubuntu.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="ubuntu" width="40" height="40"/></a> 
+  <a href="https://www.debian.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="debian" width="40" height="40"/></a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/></a> 
 </p>
 
