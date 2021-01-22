@@ -1,6 +1,6 @@
 # Nathan Guillaume
 
-## 🧑 About Me
+## 🤷‍♂️ About Me
 
 - 🔎 I'm Belgian, my name is Nathan. I'm 14 years old and I am a student.
 - 🔨 I work for personal projects.
