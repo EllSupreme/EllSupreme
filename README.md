@@ -7,7 +7,7 @@
 - 🔭 I work for personal projects.
 - 🌱 I'm currently learning **System administration and network administration**.
 
-## :wrench: Technologies
+## :wrench: Technologies / Tools
 
 <p align="left">
   <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jee-3.svg" alt="java" width="40" height="40"/></a> 
