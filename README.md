@@ -6,7 +6,7 @@
 - 🔎 I'm Belgian, I'm from Brussels, my name is Nathan. I'm 14 years old and I am a student.
 - 🔭 I work for personal projects.
 - 💖 I am passionate about **System administration and network administration**.
-- 🌱 I'm currently learning **HTML, CSS, JS**.
+- 🌱 I'm currently learning **HTML, PHP, CSS, JS**.
 
 ## :wrench: Technologies / Tools
 
