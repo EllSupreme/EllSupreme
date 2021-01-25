@@ -14,6 +14,7 @@
   <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jee-3.svg" alt="java" width="40" height="40"/></a> 
   <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" alt="html" width="40" height="40"/></a> 
   <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css" width="40" height="40"/></a> 
+  <a href="" target="https://www.php.net/"> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/></a> 
   <a href="" target="https://symfony.com/"> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="symfony" width="40" height="40"/></a> 
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="js" width="40" height="40"/></a> 
   <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="40" height="40"/></a> 
