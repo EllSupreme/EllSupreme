@@ -22,6 +22,7 @@
   <a href="https://redis.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="40" height="40"/></a> 
   <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="rabbitmq" width="40" height="40"/></a> 
   <a href="https://mariadb.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" alt="mariadb" width="40" height="40"/></a> 
+  <a href="https://lua.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/lua-5.svg" alt="lua" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="40" height="40"/></a> 
   <a href="https://www.zabbix.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/zabbix-1.svg" alt="zabbix" width="40" height="40"/></a> 
   <a href="https://grafana.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="grafana" width="40" height="40"/></a> 
