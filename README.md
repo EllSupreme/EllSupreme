@@ -13,7 +13,7 @@
 <p align="left">
   <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jee-3.svg" alt="java" width="40" height="40"/></a> 
   <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html" width="40" height="40"/></a> 
-  <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css" width="40" height="40"/></a> 
+  <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="40" height="40"/></a> 
   <a href="" target="https://www.php.net/"> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/></a> 
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="js" width="40" height="40"/></a> 
   <a href="https://lua.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/lua-5.svg" alt="lua" width="40" height="40"/></a>
