@@ -1,5 +1,5 @@
 <h1 align="center">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Nathan Guillaume</h1>
-<img align='right' src="https://github.com/Nathan-Guillaume/Nathan-Guillaume.be/blob/main/public/assets/img/me.png?raw=true" width="200">
+<img align='right' src="https://github.com/Nathan-Guillaume/Nathan-Symfony/blob/main/public/assets/img/me.png?raw=true" width="200">
 
 ## 🤷‍♂️ About Me
 
